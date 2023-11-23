@@ -1,0 +1,6 @@
+/* resources/css/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Any custom styles or overrides can go here */
